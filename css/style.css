@@ -20,6 +20,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   line-height: 1.5;
+  color: var(--slate);
 }
 
 h1,
